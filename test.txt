@@ -1,3 +1,8 @@
 ﻿Helllo
 Hello
+<<<<<<< HEAD
+=======
+ How are you ?
+
+>>>>>>> dev
 
